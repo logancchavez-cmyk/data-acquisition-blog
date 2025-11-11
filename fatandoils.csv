@@ -1,0 +1,217 @@
+,Fat/Oil Name,energy(Kcal),protein(g),saturated_fat(g),trans_fat(g),monounsat_fat(g),polyunsat_fat(g),cholesterol(mg),sodium(mg)
+2,"Animal fat, bacon grease",897.0,0.0,39.0,0.0,44.9,11.1,95.0,150.0
+3,"Butter replacement, without fat, powder",373.0,2.0,0.589,0.0,0.276,0.057,2.0,1200.0
+4,"Butter, light, stick, with salt",499.0,3.3,34.3,0.0,15.9,2.05,106.0,450.0
+5,"Butter, light, stick, without salt",2090.0,3.3,34.3,0.0,15.9,2.05,106.0,36.0
+6,"Creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie",160.0,1.5,2.12,0.0,3.27,7.99,0.0,833.0
+7,"Creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie, cholesterol-free",140.0,1.0,1.36,0.0,3.39,2.89,0.0,932.0
+8,"Creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie, fat-free",448.0,1.4,0.494,0.0,0.64,1.44,0.0,897.0
+9,"Dressing, honey mustard, fat-free",705.0,1.07,0.349,0.0,0.708,0.287,1.0,1000.0
+10,"Fat, beef tallow",902.0,0.0,49.8,0.0,41.8,4.0,109.0,0.0
+11,"Fat, chicken",900.0,0.0,29.8,0.0,44.7,20.9,85.0,0.0
+12,"Fat, goose",3770.0,0.0,27.7,0.0,56.7,11.0,100.0,0.0
+13,"Fat, turkey",3770.0,0.0,29.4,0.0,42.9,23.1,102.0,0.0
+14,"Fish oil, cod liver",3770.0,0.0,22.6,0.0,46.7,22.5,570.0,0.0
+15,"Fish oil, herring",3770.0,0.0,21.3,0.0,56.6,15.6,766.0,0.0
+16,"Fish oil, menhaden",3770.0,0.0,30.4,0.0,26.7,34.2,521.0,0.0
+17,"Fish oil, menhaden, fully hydrogenated",3770.0,0.0,95.6,0.0,0.0,0.0,500.0,0.0
+18,"Fish oil, salmon",3770.0,0.0,19.9,0.0,29.0,40.3,485.0,0.0
+19,"Fish oil, sardine",3770.0,0.0,29.9,0.0,33.8,31.9,710.0,0.0
+20,Lard,902.0,0.0,39.2,0.0,45.1,11.2,95.0,0.0
+21,"Margarine Spread, 40-49% fat, tub",401.0,0.27,11.1,0.562,10.4,21.0,0.0,716.0
+22,"Margarine, 80% fat, stick, includes regular and hydrogenated corn and soybean oils",717.0,0.16,15.2,14.9,38.9,24.3,0.0,654.0
+23,"Margarine, 80% fat, tub, CANOLA HARVEST Soft Spread (canola, palm and palm kernel oils)",730.0,0.41,11.6,0.303,45.3,21.3,0.0,714.0
+24,"Margarine, industrial, non-dairy, cottonseed, soy oil (partially hydrogenated ), for flaky pastries",714.0,1.9,20.4,24.7,46.7,9.26,0.0,879.0
+25,"Margarine, industrial, soy and partially hydrogenated soy oil, use for baking, sauces and candy",2990.0,0.18,16.3,20.6,37.5,22.4,0.0,886.0
+26,"Margarine, margarine-like vegetable oil spread, 67-70% fat, tub",2540.0,0.07,16.7,3.26,24.7,23.8,0.0,536.0
+27,"Margarine, margarine-type vegetable oil spread, 70% fat, soybean and partially hydrogenated soybean, stick",628.0,0.26,13.6,14.8,33.5,20.2,0.0,700.0
+28,"Margarine, regular, 80% fat, composite, stick, with salt",3000.0,0.16,15.2,14.9,38.9,24.3,0.0,751.0
+29,"Margarine, regular, 80% fat, composite, stick, with salt, with added vitamin D",717.0,0.16,15.2,14.9,38.9,24.3,0.0,751.0
+30,"Margarine, regular, 80% fat, composite, stick, without salt",717.0,0.16,15.2,14.9,38.9,24.3,0.0,2.0
+31,"Margarine, regular, 80% fat, composite, stick, without salt, with added vitamin D",3000.0,0.16,15.2,0.0,38.9,24.3,0.0,2.0
+32,"Margarine, regular, 80% fat, composite, tub, with salt",713.0,0.22,14.2,5.83,36.4,26.7,0.0,657.0
+33,"Margarine, regular, 80% fat, composite, tub, with salt, with added vitamin D",2980.0,0.22,14.2,5.83,36.4,26.7,0.0,657.0
+34,"Margarine, regular, 80% fat, composite, tub, without salt",713.0,0.22,14.2,0.0,36.4,26.7,0.0,28.0
+35,"Margarine, regular, hard, soybean (hydrogenated)",719.0,0.9,16.7,0.0,39.3,20.9,0.0,943.0
+36,"Margarine,spread, 35-39% fat, tub",349.0,0.23,8.66,0.079,11.2,16.1,0.0,584.0
+37,"Margarine-like shortening, industrial, soy (partially hydrogenated), cottonseed, and soy, principal use flaky pastries",628.0,0.0,22.9,19.1,37.2,7.51,0.0,864.0
+38,"Margarine-like spread with yogurt, 70% fat, stick, with salt",630.0,0.3,13.3,0.0,39.9,14.0,0.0,590.0
+39,"Margarine-like spread with yogurt, approximately 40% fat, tub, with salt",330.0,2.0,7.0,0.0,9.8,16.8,0.0,630.0
+40,"Margarine-like spread, BENECOL Light Spread",1490.0,0.0,4.77,2.21,18.9,11.9,0.0,670.0
+41,"Margarine-like spread, SMART BALANCE Light Buttery Spread",337.0,0.02,10.1,0.611,13.7,9.65,0.0,580.0
+42,"Margarine-like spread, SMART BALANCE Omega Plus Spread (with plant sterols & fish oil)",605.0,0.13,19.8,0.377,25.3,18.5,23.0,729.0
+43,"Margarine-like spread, SMART BALANCE Regular Buttery Spread with flax oil",2440.0,0.14,16.7,0.425,26.2,17.8,0.0,646.0
+44,"Margarine-like spread, SMART BEAT Smart Squeeze",47.0,0.0,0.31,0.04,0.47,1.18,0.0,829.0
+45,"Margarine-like spread, SMART BEAT Super Light without saturated fat",661.0,0.0,2.22,2.45,7.6,3.98,0.0,755.0
+46,"Margarine-like vegetable-oil spread, stick/tub/bottle, 60% fat, with added vitamin D",535.0,0.6,10.0,7.37,20.3,24.7,1.0,785.0
+47,"Margarine-like, butter-margarine blend, 80% fat, stick, without salt",718.0,0.9,26.9,0.0,31.8,18.2,88.0,28.0
+48,"Margarine-like, margarine-butter blend, soybean oil and butter",727.0,0.31,14.2,15.0,30.3,24.2,12.0,719.0
+49,"Margarine-like, vegetable oil spread, 20% fat, with salt",732.0,0.0,2.87,0.0,7.48,8.04,0.0,733.0
+50,"Margarine-like, vegetable oil spread, 20% fat, without salt",175.0,0.0,2.87,0.0,7.48,8.04,0.0,0.0
+51,"Margarine-like, vegetable oil spread, 60% fat, stick, with salt",2250.0,0.12,10.9,12.7,29.7,16.7,0.0,785.0
+52,"Margarine-like, vegetable oil spread, 60% fat, stick, with salt, with added vitamin D",537.0,0.12,10.9,12.7,29.7,16.7,0.0,785.0
+53,"Margarine-like, vegetable oil spread, 60% fat, stick/tub/bottle, with salt",526.0,0.6,10.0,7.37,20.3,24.7,1.0,700.0
+54,"Margarine-like, vegetable oil spread, 60% fat, stick/tub/bottle, without salt",533.0,0.17,12.1,0.0,19.3,26.5,1.0,2.0
+55,"Margarine-like, vegetable oil spread, 60% fat, stick/tub/bottle, without salt, with added vitamin D",542.0,0.17,12.1,0.0,19.3,26.5,1.0,2.0
+56,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",2230.0,0.17,12.1,3.66,19.3,26.5,1.0,615.0
+57,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",2230.0,0.17,12.1,3.66,19.3,26.5,1.0,785.0
+0,"Margarine-like, vegetable oil spread, approximately 37% fat, unspecified oils, with salt, with added vitamin D",339.0,0.51,8.64,1.69,14.0,12.7,0.0,589.0
+58,"Margarine-like, vegetable oil spread, fat free, liquid, with salt",43.0,1.5,0.416,0.0,0.74,1.76,1.0,833.0
+59,"Margarine-like, vegetable oil spread, fat-free, tub",184.0,0.1,2.13,0.168,0.356,0.422,0.0,580.0
+60,"Margarine-like, vegetable oil spread, stick or tub, sweetened",2230.0,0.0,8.35,0.0,17.0,23.8,0.0,542.0
+61,"Margarine-like, vegetable oil-butter spread, reduced calorie, tub, with salt",450.0,1.0,16.7,0.0,19.7,11.3,71.0,607.0
+62,"Margarine-like, vegetable oil-butter spread, tub, with salt",1520.0,1.0,7.24,0.0,18.4,12.6,0.0,786.0
+63,"Mayonnaise dressing, no cholesterol",2880.0,0.0,10.8,0.0,18.0,45.5,0.0,486.0
+64,"Mayonnaise, low sodium, low calorie or diet",231.0,0.3,3.3,0.0,4.5,10.6,24.0,110.0
+65,"Mayonnaise, made with tofu",322.0,5.95,2.92,0.153,5.25,16.6,0.0,773.0
+66,"Mayonnaise, reduced fat, with olive oil",361.0,0.37,5.37,0.0,29.5,4.01,33.0,800.0
+67,"Mayonnaise, reduced-calorie or diet, cholesterol-free",333.0,0.9,4.62,0.0,7.71,19.5,0.0,733.0
+120,"Oil, PAM cooking spray, original",792.0,0.26,5.02,0.0,49.8,22.1,0.0,59.0
+68,"Oil, almond",884.0,0.0,8.2,0.0,69.9,17.4,0.0,0.0
+69,"Oil, apricot kernel",884.0,0.0,6.3,0.0,60.0,29.3,0.0,0.0
+70,"Oil, avocado",3700.0,0.0,11.6,0.0,70.6,13.5,0.0,0.0
+71,"Oil, babassu",884.0,0.0,81.2,0.0,11.4,1.6,0.0,0.0
+72,"Oil, canola",3700.0,0.0,7.36,0.395,63.3,28.1,0.0,0.0
+74,"Oil, cocoa butter",884.0,0.0,59.7,0.0,32.9,3.0,0.0,0.0
+75,"Oil, coconut",3730.0,0.0,82.5,0.028,6.33,1.7,0.0,0.0
+77,"Oil, cooking and salad, ENOVA, 80% diglycerides",3700.0,0.0,4.63,1.76,37.0,53.4,0.0,0.0
+79,"Oil, corn and canola",3700.0,0.0,8.03,0.334,58.5,29.1,0.0,0.0
+80,"Oil, corn, industrial and retail, all purpose salad or cooking",900.0,0.0,12.9,0.0,27.6,54.7,0.0,0.0
+81,"Oil, corn, peanut, and olive",3700.0,0.0,14.4,0.0,48.0,33.0,0.0,0.0
+82,"Oil, cottonseed, salad or cooking",884.0,0.0,25.9,0.0,17.8,51.9,0.0,0.0
+83,"Oil, cupu assu",884.0,0.0,53.2,0.0,38.7,3.8,0.0,0.0
+84,"Oil, flaxseed, cold pressed",3700.0,0.11,8.98,0.094,18.4,67.8,0.0,0.0
+85,"Oil, flaxseed, contains added sliced flaxseed",3680.0,0.37,9.05,0.184,20.6,64.9,0.0,6.0
+86,"Oil, grapeseed",884.0,0.0,9.6,0.0,16.1,69.9,0.0,0.0
+87,"Oil, hazelnut",884.0,0.0,7.4,0.0,78.0,10.2,0.0,0.0
+88,"Oil, industrial, canola (partially hydrogenated) oil for deep fat frying",3700.0,0.0,10.1,27.0,71.1,14.0,0.0,0.0
+89,"Oil, industrial, canola for salads, woks and light frying",884.0,0.0,7.76,1.77,61.2,26.4,0.0,0.0
+90,"Oil, industrial, canola with antifoaming agent, principal uses salads, woks and light frying",884.0,0.0,7.62,1.62,62.1,25.6,0.0,0.0
+91,"Oil, industrial, canola, high oleic",3770.0,0.0,6.79,0.957,72.7,15.8,0.0,0.0
+92,"Oil, industrial, coconut (hydrogenated), used for whipped toppings and coffee whiteners",3680.0,0.0,93.5,0.267,0.267,0.0,0.0,7.0
+93,"Oil, industrial, coconut, confection fat, typical basis for ice cream coatings",3700.0,0.0,86.5,0.0,5.68,1.45,0.0,5.0
+94,"Oil, industrial, coconut, principal uses candy coatings, oil sprays, roasting nuts",3700.0,0.0,86.0,0.0,5.94,1.66,0.0,0.0
+95,"Oil, industrial, cottonseed, fully hydrogenated",3700.0,0.0,93.6,0.67,1.53,0.587,0.0,0.0
+96,"Oil, industrial, mid-oleic, sunflower",3700.0,0.0,9.01,0.219,57.3,29.0,0.0,0.0
+97,"Oil, industrial, palm and palm kernel, filling fat (non-hydrogenated)",880.0,0.0,71.4,0.0,19.7,3.25,0.0,6.0
+98,"Oil, industrial, palm kernel (hydrogenated) , used for whipped toppings, non-dairy",884.0,0.0,89.0,3.68,4.93,0.0,0.0,6.0
+99,"Oil, industrial, palm kernel (hydrogenated), confection fat, intermediate grade product",884.0,0.0,92.6,0.0,1.27,0.037,0.0,6.0
+100,"Oil, industrial, palm kernel (hydrogenated), confection fat, uses similar to 95 degree hard butter",3700.0,0.0,93.7,0.257,0.257,0.0,0.0,6.0
+101,"Oil, industrial, palm kernel (hydrogenated), filling fat",3700.0,0.0,88.2,4.66,5.7,0.0,0.0,6.0
+102,"Oil, industrial, palm kernel, confection fat, uses similar to high quality cocoa butter",884.0,0.0,87.6,0.0,5.41,0.834,0.0,6.0
+103,"Oil, industrial, soy ( partially hydrogenated), all purpose",884.0,0.0,24.8,34.2,61.2,9.3,0.0,0.0
+104,"Oil, industrial, soy (partially hydrogenated ) and soy (winterized), pourable clear fry",3700.0,0.0,15.3,10.8,34.6,45.2,0.0,0.0
+105,"Oil, industrial, soy (partially hydrogenated ), palm, principal uses icings and fillings",884.0,0.0,28.4,31.2,59.7,7.1,0.0,0.0
+106,"Oil, industrial, soy (partially hydrogenated)  and cottonseed, principal use as a tortilla shortening",884.0,0.0,25.9,30.8,59.1,10.3,0.0,0.0
+107,"Oil, industrial, soy (partially hydrogenated), multiuse for non-dairy butter flavor",3700.0,0.0,18.1,12.9,40.3,36.8,0.0,0.0
+108,"Oil, industrial, soy (partially hydrogenated), principal uses popcorn and flavoring vegetables",884.0,0.0,17.7,13.6,41.9,35.6,0.0,0.0
+109,"Oil, industrial, soy, fully hydrogenated",884.0,0.0,94.0,1.15,1.34,0.383,0.0,0.0
+110,"Oil, industrial, soy, low linolenic",900.0,0.0,15.1,0.67,21.4,58.9,0.0,0.0
+111,"Oil, industrial, soy, refined, for woks and light frying",884.0,0.0,15.3,0.124,21.7,58.2,0.0,0.0
+112,"Oil, industrial, soy, ultra low linolenic",3700.0,0.0,14.9,0.306,28.9,52.1,0.0,0.0
+113,"Oil, mustard",3700.0,0.0,11.6,0.0,59.2,21.2,0.0,0.0
+114,"Oil, nutmeg butter",884.0,0.0,90.0,0.0,4.8,0.0,0.0,0.0
+115,"Oil, oat",884.0,0.0,19.6,0.0,35.1,40.9,0.0,0.0
+118,"Oil, olive, salad or cooking",884.0,0.0,13.8,0.0,73.0,10.5,0.0,2.0
+119,"Oil, palm",884.0,0.0,49.3,0.0,37.0,9.3,0.0,0.0
+122,"Oil, peanut, salad or cooking",3700.0,0.0,16.9,0.0,46.2,32.0,0.0,0.0
+123,"Oil, poppyseed",884.0,0.0,13.5,0.0,19.7,62.4,0.0,0.0
+124,"Oil, rice bran",884.0,0.0,19.7,0.0,39.3,35.0,0.0,0.0
+126,"Oil, safflower, salad or cooking, high oleic (primary safflower oil of commerce)",884.0,0.0,7.54,0.096,75.2,12.8,0.0,0.0
+127,"Oil, safflower, salad or cooking, linoleic, (over 70%)",884.0,0.0,6.2,0.0,14.4,74.6,0.0,0.0
+128,"Oil, sesame, salad or cooking",884.0,0.0,14.2,0.0,39.7,41.7,0.0,0.0
+129,"Oil, sheanut",884.0,0.0,46.6,0.0,44.0,5.2,0.0,0.0
+131,"Oil, soybean lecithin",763.0,0.0,15.0,0.0,11.0,45.3,0.0,0.0
+132,"Oil, soybean, salad or cooking",3700.0,0.0,15.6,0.533,22.8,57.7,0.0,0.0
+133,"Oil, soybean, salad or cooking, (partially hydrogenated)",884.0,0.0,14.9,0.0,43.0,37.6,0.0,0.0
+134,"Oil, soybean, salad or cooking, (partially hydrogenated) and cottonseed",884.0,0.0,18.0,0.0,29.5,48.1,0.0,0.0
+136,"Oil, sunflower, high oleic (70% and over)",884.0,0.0,9.86,0.0,83.7,3.8,0.0,0.0
+137,"Oil, sunflower, linoleic (less than 60%)",884.0,0.0,10.1,0.0,45.4,40.1,0.0,0.0
+138,"Oil, sunflower, linoleic, (approx. 65%)",3700.0,0.0,10.3,0.0,19.5,65.7,0.0,0.0
+139,"Oil, sunflower, linoleic, (partially hydrogenated)",884.0,0.0,13.0,0.0,46.2,36.4,0.0,0.0
+140,"Oil, teaseed",884.0,0.0,21.1,0.0,51.5,23.0,0.0,0.0
+141,"Oil, tomatoseed",884.0,0.0,19.7,0.0,22.8,53.1,0.0,0.0
+142,"Oil, ucuhuba butter",884.0,0.0,85.2,0.0,6.7,2.9,0.0,0.0
+143,"Oil, vegetable, Natreon canola, high stability, non trans, high oleic (70%)",3700.0,0.0,6.51,0.767,72.0,17.1,0.0,0.0
+144,"Oil, vegetable, soybean, refined",3700.0,0.0,15.3,0.678,22.7,57.3,0.0,0.0
+145,"Oil, walnut",884.0,0.0,9.1,0.0,22.8,63.3,0.0,0.0
+146,"Oil, wheat germ",884.0,0.0,18.8,0.0,15.1,61.7,0.0,0.0
+157,"Salad Dressing, coleslaw, reduced fat",1380.0,0.0,2.98,0.0,8.6,7.52,25.0,1600.0
+185,"Salad Dressing, mayonnaise, light, SMART BALANCE, Omega Plus light",333.0,1.53,3.29,0.149,16.7,11.8,33.0,848.0
+189,"Salad Dressing, mayonnaise-like, fat-free",84.0,0.2,0.6,0.0,1.89,0.063,9.0,788.0
+178,"Salad dressing, KRAFT MIRACLE WHIP FREE Nonfat Dressing",351.0,0.2,0.6,0.0,0.0,0.0,9.0,788.0
+176,"Salad dressing, KRAFT Mayo Fat Free Mayonnaise Dressing",268.0,0.2,0.0,0.0,0.0,0.0,0.0,750.0
+177,"Salad dressing, KRAFT Mayo Light Mayonnaise",334.0,0.6,5.0,0.0,0.0,0.0,35.0,633.0
+147,"Salad dressing, bacon and tomato",326.0,1.8,5.44,0.0,8.42,19.6,4.0,905.0
+148,"Salad dressing, blue or roquefort cheese dressing, commercial, regular",2030.0,1.37,8.28,1.34,13.3,27.5,31.0,642.0
+149,"Salad dressing, blue or roquefort cheese dressing, fat-free",115.0,1.52,0.45,0.096,0.441,0.069,2.0,814.0
+150,"Salad dressing, blue or roquefort cheese dressing, light",86.0,2.1,0.628,0.0,1.09,0.855,10.0,939.0
+151,"Salad dressing, blue or roquefort cheese, low calorie",414.0,5.1,2.58,0.0,1.78,2.42,1.0,939.0
+152,"Salad dressing, buttermilk, lite",845.0,1.25,1.25,0.059,2.79,4.21,16.0,1120.0
+153,"Salad dressing, caesar dressing, regular",542.0,2.17,8.79,0.0,13.5,32.9,39.0,1210.0
+154,"Salad dressing, caesar, fat-free",131.0,1.47,0.096,0.0,0.045,0.01,1.0,1260.0
+155,"Salad dressing, caesar, low calorie",110.0,0.3,0.703,0.0,1.12,2.37,2.0,1150.0
+156,"Salad dressing, coleslaw",404.0,0.85,5.34,0.086,7.41,19.4,41.0,850.0
+158,"Salad dressing, french dressing, commercial, regular",1750.0,0.87,6.09,0.081,8.91,23.0,0.0,661.0
+159,"Salad dressing, french dressing, commercial, regular, without salt",459.0,0.77,5.65,0.0,8.43,21.0,0.0,0.0
+160,"Salad dressing, french dressing, fat-free",132.0,0.2,0.037,0.0,0.141,0.062,0.0,853.0
+161,"Salad dressing, french dressing, reduced calorie",227.0,0.4,1.87,0.0,3.03,7.53,0.0,804.0
+162,"Salad dressing, french dressing, reduced fat",928.0,0.58,0.842,0.0,4.52,3.85,0.0,838.0
+163,"Salad dressing, french dressing, reduced fat, without salt",974.0,0.58,1.1,0.0,5.9,5.03,0.0,30.0
+164,"Salad dressing, french, cottonseed, oil, home recipe",631.0,0.1,18.2,0.0,0.0,0.0,0.0,658.0
+165,"Salad dressing, french, home recipe",631.0,0.1,12.6,0.0,20.7,33.7,0.0,658.0
+166,"Salad dressing, green goddess, regular",1790.0,1.9,5.98,0.0,9.42,23.2,40.0,867.0
+167,"Salad dressing, home recipe, vinegar and oil",449.0,0.0,9.1,0.0,14.8,24.1,0.0,1.0
+168,"Salad dressing, honey mustard dressing, reduced calorie",207.0,0.98,0.833,0.003,5.57,3.15,0.0,701.0
+169,"Salad dressing, honey mustard, regular",1940.0,0.87,5.0,0.0,11.5,22.8,29.0,512.0
+170,"Salad dressing, italian dressing, commercial, reduced fat",425.0,0.39,0.833,0.017,1.72,3.24,0.0,891.0
+171,"Salad dressing, italian dressing, commercial, regular",1000.0,0.41,2.95,0.067,5.64,10.7,0.0,993.0
+172,"Salad dressing, italian dressing, commercial, regular, without salt",292.0,0.38,4.47,0.0,6.32,12.9,67.0,30.0
+173,"Salad dressing, italian dressing, fat-free",195.0,0.97,0.295,0.0,0.235,0.192,2.0,1130.0
+174,"Salad dressing, italian dressing, reduced calorie",200.0,0.3,2.88,0.0,4.66,11.6,0.0,1070.0
+175,"Salad dressing, italian dressing, reduced fat, without salt",317.0,0.47,0.451,0.0,2.19,1.7,6.0,30.0
+179,"Salad dressing, mayonnaise and mayonnaise-type, low calorie",263.0,0.9,2.96,0.0,4.63,10.4,26.0,837.0
+180,"Salad dressing, mayonnaise type, regular, with salt",1050.0,0.65,3.4,0.078,5.05,12.2,19.0,653.0
+181,"Salad dressing, mayonnaise, imitation, milk cream",97.0,2.1,2.8,0.0,1.7,0.3,43.0,504.0
+182,"Salad dressing, mayonnaise, imitation, soybean",232.0,0.3,3.3,0.0,4.5,10.6,24.0,497.0
+183,"Salad dressing, mayonnaise, imitation, soybean without cholesterol",482.0,0.1,7.5,0.0,10.5,27.6,0.0,353.0
+184,"Salad dressing, mayonnaise, light",238.0,0.37,3.45,0.056,5.01,13.0,16.0,827.0
+186,"Salad dressing, mayonnaise, regular",2840.0,0.96,11.7,0.187,16.8,44.7,42.0,635.0
+187,"Salad dressing, mayonnaise, soybean and safflower oil, with salt",717.0,1.1,8.6,0.0,13.0,55.0,59.0,568.0
+188,"Salad dressing, mayonnaise, soybean oil, without salt",717.0,1.1,11.8,0.0,22.7,37.1,59.0,30.0
+190,"Salad dressing, mayonnaise-type, light",662.0,0.65,1.48,0.0,2.34,5.64,0.0,833.0
+191,"Salad dressing, peppercorn dressing, commercial, regular",564.0,1.2,10.5,0.0,14.8,33.0,49.0,1100.0
+192,"Salad dressing, poppyseed, creamy",399.0,0.92,6.06,0.144,8.21,17.3,15.0,933.0
+193,"Salad dressing, ranch dressing, fat-free",497.0,0.25,0.447,0.0,0.388,0.698,7.0,897.0
+194,"Salad dressing, ranch dressing, reduced fat",821.0,1.25,1.25,0.059,2.79,4.21,16.0,1120.0
+195,"Salad dressing, ranch dressing, regular",430.0,1.32,6.96,0.182,9.2,25.8,26.0,901.0
+196,"Salad dressing, russian dressing",355.0,0.69,2.39,0.17,5.93,14.8,0.0,1130.0
+197,"Salad dressing, russian dressing, low calorie",141.0,0.5,0.6,0.0,0.9,2.3,6.0,868.0
+198,"Salad dressing, sesame seed dressing, regular",1850.0,3.1,6.2,0.0,11.9,25.1,0.0,1000.0
+199,"Salad dressing, spray-style dressing, assorted flavors",690.0,0.16,1.64,0.139,0.0,0.0,0.0,1100.0
+200,"Salad dressing, sweet and sour",15.0,0.1,0.0,0.0,0.0,0.0,0.0,208.0
+201,"Salad dressing, thousand island dressing, fat-free",132.0,0.55,0.198,0.0,0.342,0.63,5.0,788.0
+202,"Salad dressing, thousand island dressing, reduced fat",195.0,0.83,0.746,0.0,6.47,2.69,11.0,955.0
+203,"Salad dressing, thousand island, commercial, regular",1580.0,1.09,5.09,0.0,7.88,18.2,26.0,962.0
+204,"Sandwich spread, with chopped pickle, regular, unspecified oils",1630.0,0.9,5.1,0.0,7.4,20.0,76.0,1000.0
+205,"Shortening bread, soybean (hydrogenated) and cottonseed",884.0,0.0,22.0,0.0,33.0,40.6,0.0,0.0
+206,"Shortening cake mix, soybean (hydrogenated) and cottonseed (hydrogenated)",884.0,0.0,27.2,0.0,54.2,14.1,0.0,0.0
+207,"Shortening confectionery, coconut (hydrogenated) and or palm kernel (hydrogenated)",3700.0,0.0,91.3,0.0,2.2,1.0,0.0,0.0
+208,"Shortening frying (heavy duty), beef tallow and cottonseed",3770.0,0.0,44.9,0.0,38.5,8.8,100.0,0.0
+209,"Shortening frying (heavy duty), palm (hydrogenated)",3700.0,0.0,47.5,0.0,40.6,7.5,0.0,0.0
+210,"Shortening frying (heavy duty), soybean (hydrogenated), linoleic (less than 1%)",3700.0,0.0,21.1,0.0,73.7,0.4,0.0,0.0
+211,Shortening household soybean (hydrogenated) and palm,3700.0,0.0,25.0,0.0,42.5,26.6,0.0,0.0
+212,"Shortening industrial, lard and vegetable oil",3770.0,0.0,35.7,0.0,40.7,19.2,56.0,0.0
+213,"Shortening industrial, soybean (hydrogenated) and cottonseed",884.0,0.0,25.6,0.0,58.0,12.0,0.0,0.0
+214,"Shortening, confectionery, fractionated palm",3700.0,0.0,65.5,0.0,29.6,0.5,0.0,0.0
+215,"Shortening, household, lard and vegetable oil",900.0,0.0,40.3,0.0,44.4,10.9,56.0,0.0
+216,"Shortening, household, soybean (partially hydrogenated)-cottonseed (partially hydrogenated)",884.0,0.0,25.0,0.0,44.5,26.1,0.0,0.0
+217,"Shortening, industrial, soy (partially hydrogenated ) and corn for frying",884.0,0.0,17.4,13.8,40.8,36.0,0.0,0.0
+218,"Shortening, industrial, soy (partially hydrogenated ) for baking and confections",3700.0,0.0,18.8,42.9,71.0,5.4,0.0,0.0
+219,"Shortening, industrial, soy (partially hydrogenated), pourable liquid fry shortening",3700.0,0.0,18.4,12.6,38.9,38.0,0.0,0.0
+220,"Shortening, multipurpose, soybean (hydrogenated) and palm (hydrogenated)",3700.0,0.0,30.4,0.0,51.0,14.2,0.0,0.0
+221,"Shortening, special purpose for baking, soybean (hydrogenated) palm and cottonseed",3700.0,0.0,28.8,0.0,29.6,37.2,0.0,0.0
+222,"Shortening, special purpose for cakes and frostings, soybean (hydrogenated)",3700.0,0.0,20.0,0.0,36.6,38.0,0.0,0.0
+223,"Shortening, vegetable, household, composite",3700.0,0.0,25.0,13.2,41.2,28.1,0.0,4.0
+224,"Vegetable oil, palm kernel",862.0,0.0,81.5,0.0,11.4,1.6,0.0,0.0
+225,"Vegetable oil-butter spread, reduced calorie",465.0,0.0,17.9,0.0,20.8,11.2,54.0,581.0
